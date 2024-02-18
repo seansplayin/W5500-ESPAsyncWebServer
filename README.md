@@ -10,3 +10,5 @@ What it does W5500-ESPAsyncWebServer does?
 Create a webpage with three buttons that when actuated will pull each buttons respective pin from low to high. This webserver 
 supports multiple concurrently connected clients and button states are instantly updated on each clients webpage when changed.
 
+Limitations: 
+This sketch has the On state pin high and the Off state pin low hard coded. 
